@@ -1,0 +1,18 @@
+[
+  {"id": "1", "from": "boss@acme.com", "subject": "URGENT: Client demo moved to 3pm today", "date": "Sat, 21 Nov 2026 09:02:00 +0530",
+   "body": "Hi, the client moved the demo to 3pm today. Can you confirm you can present the Q4 numbers? I need a yes/no in the next hour.\n\nThanks,\nRaj"},
+  {"id": "2", "from": "newsletter@techdigest.io", "subject": "This week in AI: 10 stories you missed", "date": "Fri, 20 Nov 2026 18:00:00 +0530",
+   "body": "Your weekly digest is here. 1. New model released... 2. Funding roundup... Unsubscribe at the bottom of this email."},
+  {"id": "3", "from": "priya@gmail.com", "subject": "Dinner on Sunday?", "date": "Fri, 20 Nov 2026 20:15:00 +0530",
+   "body": "Hey! Are you free for dinner this Sunday around 8? Mom wants to try the new place near the beach."},
+  {"id": "4", "from": "billing@cloudhost.com", "subject": "Invoice #4821 due in 2 days", "date": "Fri, 20 Nov 2026 07:30:00 +0530",
+   "body": "Your invoice #4821 for $49.00 is due on Nov 23. Please pay via your dashboard to avoid service interruption."},
+  {"id": "5", "from": "winner@free-prizes-now.biz", "subject": "YOU WON $1,000,000!!! CLICK NOW", "date": "Fri, 20 Nov 2026 03:00:00 +0530",
+   "body": "Congratulations!!! Send your bank details and passport scan to claim your prize today."},
+  {"id": "6", "from": "hr@acme.com", "subject": "Please submit your timesheet by Monday", "date": "Thu, 19 Nov 2026 16:45:00 +0530",
+   "body": "Reminder: timesheets for this week are due Monday 10am. Submit via the HR portal."},
+  {"id": "7", "from": "deals@shopmart.com", "subject": "50% off everything this weekend", "date": "Thu, 19 Nov 2026 12:00:00 +0530",
+   "body": "Our biggest sale of the year! Use code WEEKEND50 at checkout."},
+  {"id": "8", "from": "teammate@acme.com", "subject": "FYI: deployment finished", "date": "Thu, 19 Nov 2026 11:10:00 +0530",
+   "body": "Just letting you know the v2.3 deployment finished successfully. No action needed."}
+]

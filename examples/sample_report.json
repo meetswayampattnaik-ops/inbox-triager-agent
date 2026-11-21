@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "from": "boss@acme.com",
+    "subject": "URGENT: Client demo moved to 3pm today",
+    "labels": [
+      "Urgent"
+    ],
+    "urgent_reason": "Client demo moved to 3pm today, needs confirmation within 1 hour",
+    "draft": "Hi Raj,\n\nI can present the Q4 numbers at the 3\u202fpm demo today.\n\nThanks,\nMEET SWAYAM PATTNAIK"
+  },
+  {
+    "id": "2",
+    "from": "newsletter@techdigest.io",
+    "subject": "This week in AI: 10 stories you missed",
+    "labels": [
+      "Newsletter"
+    ],
+    "urgent_reason": null,
+    "draft": null
+  },
+  {
+    "id": "3",
+    "from": "priya@gmail.com",
+    "subject": "Dinner on Sunday?",
+    "labels": [
+      "Personal"
+    ],
+    "urgent_reason": null,
+    "draft": "Hi Priya,\n\nThanks for the invite! I\u2019m available on Sunday at 8\u202fpm and would love to join.\n\nBest,\nMEET SWAYAM PATTNAIK"
+  },
+  {
+    "id": "4",
+    "from": "billing@cloudhost.com",
+    "subject": "Invoice #4821 due in 2 days",
+    "labels": [
+      "Urgent"
+    ],
+    "urgent_reason": null,
+    "draft": null
+  },
+  {
+    "id": "5",
+    "from": "winner@free-prizes-now.biz",
+    "subject": "YOU WON $1,000,000!!! CLICK NOW",
+    "labels": [],
+    "urgent_reason": null,
+    "draft": null
+  },
+  {
+    "id": "6",
+    "from": "hr@acme.com",
+    "subject": "Please submit your timesheet by Monday",
+    "labels": [],
+    "urgent_reason": null,
+    "draft": null
+  },
+  {
+    "id": "7",
+    "from": "deals@shopmart.com",
+    "subject": "50% off everything this weekend",
+    "labels": [],
+    "urgent_reason": null,
+    "draft": null
+  },
+  {
+    "id": "8",
+    "from": "teammate@acme.com",
+    "subject": "FYI: deployment finished",
+    "labels": [],
+    "urgent_reason": null,
+    "draft": null
+  }
+]
